@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://imetchain.github.io</id>
     <title>IMET</title>
-    <updated>2020-05-28T20:20:27.020Z</updated>
+    <updated>2020-05-28T20:23:25.129Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://imetchain.github.io"/>
     <link rel="self" href="https://imetchain.github.io/atom.xml"/>
-    <subtitle>即时通信领域垂直公链</subtitle>
+    <subtitle>即时通信领域</subtitle>
     <logo>https://imetchain.github.io/images/avatar.png</logo>
     <icon>https://imetchain.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, IMET</rights>
