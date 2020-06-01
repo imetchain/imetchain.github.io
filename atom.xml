@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://imetchain.github.io</id>
     <title>IMET</title>
-    <updated>2020-05-31T02:54:59.543Z</updated>
+    <updated>2020-06-01T06:34:35.599Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://imetchain.github.io"/>
     <link rel="self" href="https://imetchain.github.io/atom.xml"/>
@@ -11,10 +11,10 @@
     <icon>https://imetchain.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, IMET</rights>
     <entry>
-        <title type="html"><![CDATA[携手共进 IMET & 母婴链 空投/红包/神秘大礼]]></title>
-        <id>https://imetchain.github.io/post/xi-shou-gong-jin-imet-and-mu-ying-lian-kong-tou-hong-bao-shen-mi-da-li/</id>
-        <link href="https://imetchain.github.io/post/xi-shou-gong-jin-imet-and-mu-ying-lian-kong-tou-hong-bao-shen-mi-da-li/">
+        <title type="html"><![CDATA[老铁们！儿童节快乐，IMET Blog正式上线！]]></title>
+        <id>https://imetchain.github.io/post/lao-tie-men-er-tong-jie-kuai-le-imet-blog-zheng-shi-shang-xian/</id>
+        <link href="https://imetchain.github.io/post/lao-tie-men-er-tong-jie-kuai-le-imet-blog-zheng-shi-shang-xian/">
         </link>
-        <updated>2020-05-28T14:36:06.000Z</updated>
+        <updated>2020-06-01T06:33:32.000Z</updated>
     </entry>
 </feed>
